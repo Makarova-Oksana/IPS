@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  IPS_lab_1.cpp
+c:\users\оксана\documents\visual studio 2015\projects\ips_lab_1\ips_lab_1\ips_lab_1.cpp(57): warning C4081: expected 'identifier'; found ')'
+  IPS_lab_1.vcxproj -> C:\Users\Оксана\Documents\Visual Studio 2015\Projects\IPS_lab_1\Debug\IPS_lab_1.exe
+  IPS_lab_1.vcxproj -> C:\Users\Оксана\Documents\Visual Studio 2015\Projects\IPS_lab_1\Debug\IPS_lab_1.pdb (Full PDB)

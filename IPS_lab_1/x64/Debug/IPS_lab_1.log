@@ -1,0 +1,4 @@
+﻿  IPS_lab_1.cpp
+c:\users\оксана\documents\visual studio 2015\projects\ips_lab_1\ips_lab_1\ips_lab_1.cpp(54): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  IPS_lab_1.vcxproj -> C:\Users\Оксана\Documents\Visual Studio 2015\Projects\IPS_lab_1\x64\Debug\IPS_lab_1.exe
+  IPS_lab_1.vcxproj -> C:\Users\Оксана\Documents\Visual Studio 2015\Projects\IPS_lab_1\x64\Debug\IPS_lab_1.pdb (Full PDB)
